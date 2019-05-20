@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "12649051417",
+    "firebase_url": "https://difusioncultural-9859f.firebaseio.com",
+    "project_id": "difusioncultural-9859f",
+    "storage_bucket": "difusioncultural-9859f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12649051417:android:f5d733c97feb7b0f",
+        "android_client_info": {
+          "package_name": "com.example.difusioncultural"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12649051417-ilqhd38959j654ftvkcime8ghjkmu2de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.difusioncultural",
+            "certificate_hash": "7167742b462e72ee85f779f12d269a330f59c6d1"
+          }
+        },
+        {
+          "client_id": "12649051417-h25h2giq0bbk4rfcm9aa9gltf5jhkp17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoUbWxupzb0IxQX62_eWnTklWd_W03P2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12649051417-h25h2giq0bbk4rfcm9aa9gltf5jhkp17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
